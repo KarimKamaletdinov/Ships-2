@@ -1,0 +1,5 @@
+C:\Users\Карим\source\repos\Ships 2\KarForms\bin\Debug\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\KarForms\bin\Debug\KarForms.pdb
+C:\Users\Карим\source\repos\Ships 2\KarForms\obj\Debug\KarForms.csprojAssemblyReference.cache
+C:\Users\Карим\source\repos\Ships 2\KarForms\obj\Debug\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\KarForms\obj\Debug\KarForms.pdb

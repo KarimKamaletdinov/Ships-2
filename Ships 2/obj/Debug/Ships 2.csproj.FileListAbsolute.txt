@@ -1,0 +1,31 @@
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships 2.csprojAssemblyReference.cache
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships_2.Properties.Resources.resources
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships 2.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\Ships 2.exe.config
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\Ships 2.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\Ships 2.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\LineDrawer.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Desktop.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\LineDrawer.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\LineDrawer.exe.config
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Desktop.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Desktop.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct3D11.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Mathematics.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships 2.csproj.CopyComplete
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships 2.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Debug\Ships 2.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Debug\KarForms.pdb

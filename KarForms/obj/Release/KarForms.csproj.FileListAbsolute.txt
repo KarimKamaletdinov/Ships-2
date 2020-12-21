@@ -1,0 +1,4 @@
+C:\Users\Карим\source\repos\Ships 2\KarForms\bin\Release\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\KarForms\bin\Release\KarForms.pdb
+C:\Users\Карим\source\repos\Ships 2\KarForms\obj\Release\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\KarForms\obj\Release\KarForms.pdb

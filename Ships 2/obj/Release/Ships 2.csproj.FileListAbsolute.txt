@@ -1,0 +1,31 @@
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\Ships 2.exe.config
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\Ships 2.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\Ships 2.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\KarForms.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\LineDrawer.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Desktop.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct2D1.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct3D11.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.DXGI.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Mathematics.dll
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\KarForms.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\LineDrawer.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\LineDrawer.exe.config
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Desktop.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Desktop.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct2D1.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct2D1.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct3D11.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Direct3D11.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.DXGI.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.DXGI.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Mathematics.pdb
+C:\Users\Карим\source\repos\Ships 2\Ships 2\bin\Release\SharpDX.Mathematics.xml
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships 2.csprojAssemblyReference.cache
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships_2.Properties.Resources.resources
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships 2.csproj.GenerateResource.cache
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships 2.csproj.CopyComplete
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships 2.exe
+C:\Users\Карим\source\repos\Ships 2\Ships 2\obj\Release\Ships 2.pdb
